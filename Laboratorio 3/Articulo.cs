@@ -30,7 +30,7 @@ namespace Laboratorio_3
 
         public virtual void Informacion()
         {
-            Console.WriteLine("#{0}: {1}\nprecio:{3}\nstock:{4}", id, nombre, precio, stock);
+            Console.WriteLine("#{0}: {1}\n\tPrecio:{2}\n\tStock:{3}", id, nombre, precio, stock);
         }
 
         public void Resumen()

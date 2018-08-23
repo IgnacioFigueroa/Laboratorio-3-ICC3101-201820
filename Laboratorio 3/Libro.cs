@@ -21,7 +21,8 @@ namespace Laboratorio_3
 
         public override void Informacion()
         {
-            Console.WriteLine("#{0}: {1}\n\tPrecio: {2}\n\tStock: {3}\n\tEditorial: {4}\n\tPaginas: {5}\n\tAutor: {6}", id, nombre, precio, stock, editorial, paginas, autor);
+            base.Informacion();
+            Console.WriteLine("\tEditorial: {0}\n\tPaginas: {1}\n\tAutor: {2}", editorial, paginas, autor);
 
         }
     }

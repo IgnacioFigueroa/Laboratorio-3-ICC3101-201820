@@ -5,3 +5,10 @@ C:\Users\infig\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.
 C:\Users\infig\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.CoreCompileInputs.cache
 C:\Users\infig\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.exe
 C:\Users\infig\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.pdb
+C:\Users\infig\source\repos\Laboratorio-3-ICC3101-201820\Laboratorio 3\bin\Debug\Laboratorio 3.exe.config
+C:\Users\infig\source\repos\Laboratorio-3-ICC3101-201820\Laboratorio 3\bin\Debug\Laboratorio 3.exe
+C:\Users\infig\source\repos\Laboratorio-3-ICC3101-201820\Laboratorio 3\bin\Debug\Laboratorio 3.pdb
+C:\Users\infig\source\repos\Laboratorio-3-ICC3101-201820\Laboratorio 3\obj\Debug\Laboratorio 3.csprojResolveAssemblyReference.cache
+C:\Users\infig\source\repos\Laboratorio-3-ICC3101-201820\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.CoreCompileInputs.cache
+C:\Users\infig\source\repos\Laboratorio-3-ICC3101-201820\Laboratorio 3\obj\Debug\Laboratorio 3.exe
+C:\Users\infig\source\repos\Laboratorio-3-ICC3101-201820\Laboratorio 3\obj\Debug\Laboratorio 3.pdb

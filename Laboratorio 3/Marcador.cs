@@ -19,7 +19,8 @@ namespace Laboratorio_3
 
         public override void Informacion()
         {
-            Console.WriteLine("\t#{0}: {1}\n\tPrecio: {2}\n\tStock: {3}\n\tColor: {4}\n\tDescripcion:{5}", id, nombre, precio, stock, color, descripcion);
+            base.Informacion();
+            Console.WriteLine("\tColor: {0}\n\tDescripcion:{1}", color, descripcion);
         }
 
     }

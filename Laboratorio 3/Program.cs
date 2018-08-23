@@ -38,9 +38,9 @@ namespace Laboratorio_3
             while (flag)
             {
                 Console.WriteLine("1. Ver Productos\n" +
-                                "2. Ver información completa de un artículo\n" +
-                                    "3. Comprar un artículo\n" +
-                                        "4. Cerrar Programa\n ");
+                                  "2. Ver información completa de un artículo\n" +
+                                  "3. Comprar un artículo\n" +
+                                  "4. Cerrar Programa\n ");
                 Console.Write("Ingrese un numero de opcion: ");
                 int opcion = Convert.ToInt32(Console.ReadLine());
 
